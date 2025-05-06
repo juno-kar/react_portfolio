@@ -170,7 +170,7 @@ const App = () => {
       <Router>
         <Header />
         <Routes>
-          <Route path="/" element={<AboutMe />} />
+          <Route path="/react_portfolio/" element={<AboutMe />} />
           <Route path="/city" element={<MyCity />} />
           <Route path="/future" element={<MyFuture />} />
           <Route path="*" element={<NotFound />} />
