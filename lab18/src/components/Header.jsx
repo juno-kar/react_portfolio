@@ -30,7 +30,7 @@ function Header () {
   return (
     <Nav id="theme1">
       <Wrapper>
-      <StyledLink to="/" style={{"margin-left": 0}}>Про мене</StyledLink>
+      <StyledLink to="/react_portfolio/" style={{"margin-left": 0}}>Про мене</StyledLink>
       </Wrapper>
 
       <Wrapper>
