@@ -38,9 +38,6 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-  },
   "homepage": "https://juno-kar.github.io/react_portfolio/",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
